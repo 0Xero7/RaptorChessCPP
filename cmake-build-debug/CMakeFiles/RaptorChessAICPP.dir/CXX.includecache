@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/RaptorChessAICPP/Bitboard.cpp
+Bitboard.h
+D:/Projects/RaptorChessAICPP/Bitboard.h
+
+D:/Projects/RaptorChessAICPP/Bitboard.h
+iostream
+-
+Constants.h
+D:/Projects/RaptorChessAICPP/Constants.h
+devtools/u64utils.h
+D:/Projects/RaptorChessAICPP/devtools/u64utils.h
+
+D:/Projects/RaptorChessAICPP/Constants.h
+
+D:/Projects/RaptorChessAICPP/devtools/u64utils.h
+../Constants.h
+D:/Projects/RaptorChessAICPP/Constants.h
+
